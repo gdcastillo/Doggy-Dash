@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B827E17C-CF8B-D8A3-AA15-3C62BFF27629}</ProjectGuid>
+    <ProjectGuid>{BFA57858-726D-09F6-E22C-7CFC87193265}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -51,15 +51,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\EnemyChase.cs" />
-     <Compile Include="Assets\Scripts\EnemyChase2.cs" />
-     <Compile Include="Assets\Scripts\EnemyChase3.cs" />
+     <Compile Include="Assets\Scripts\EndScreen.cs" />
+     <Compile Include="Assets\Scripts\EscExit.cs" />
+     <Compile Include="Assets\Scripts\Gio&apos;s Code\EnemyChase.cs" />
+     <Compile Include="Assets\Scripts\Gio&apos;s Code\EnemyChase2.cs" />
+     <Compile Include="Assets\Scripts\Gio&apos;s Code\EnemyChase3.cs" />
+     <Compile Include="Assets\Scripts\MainUI.cs" />
      <Compile Include="Assets\Scripts\PlayerMove.cs" />
+     <Compile Include="Assets\Scripts\StartScreen.cs" />
+     <Compile Include="Assets\Scripts\UIInput.cs" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Users/Gio/Documents/Unity Projects/Game Prod/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/Gio/Documents/Unity Projects/Doggy-Dash/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/Gio/Documents/Unity Projects/Game Prod/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/Gio/Documents/Unity Projects/Doggy-Dash/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files (x86)/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
