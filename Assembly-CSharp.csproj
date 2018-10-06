@@ -51,15 +51,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\EndScreen.cs" />
-     <Compile Include="Assets\Scripts\EscExit.cs" />
-     <Compile Include="Assets\Scripts\Gio&apos;s Code\EnemyChase.cs" />
-     <Compile Include="Assets\Scripts\Gio&apos;s Code\EnemyChase2.cs" />
-     <Compile Include="Assets\Scripts\Gio&apos;s Code\EnemyChase3.cs" />
-     <Compile Include="Assets\Scripts\MainUI.cs" />
-     <Compile Include="Assets\Scripts\PlayerMove.cs" />
-     <Compile Include="Assets\Scripts\StartScreen.cs" />
-     <Compile Include="Assets\Scripts\UIInput.cs" />
+     <Compile Include="Assets\Scripts\Gio&apos;s Code\AIMove\EnemyChase.cs" />
+     <Compile Include="Assets\Scripts\Gio&apos;s Code\AIMove\EnemyChase2.cs" />
+     <Compile Include="Assets\Scripts\Gio&apos;s Code\AIMove\EnemyChase3.cs" />
+     <Compile Include="Assets\Scripts\Gio&apos;s Code\BulletBehavior.cs" />
+     <Compile Include="Assets\Scripts\Gio&apos;s Code\Mouse.cs" />
+     <Compile Include="Assets\Scripts\Gio&apos;s Code\PlayerMove.cs" />
+     <Compile Include="Assets\Scripts\UI\EndScreen.cs" />
+     <Compile Include="Assets\Scripts\UI\EscExit.cs" />
+     <Compile Include="Assets\Scripts\UI\MainUI - Copy.cs" />
+     <Compile Include="Assets\Scripts\UI\MainUI.cs" />
+     <Compile Include="Assets\Scripts\UI\StartScreen.cs" />
+     <Compile Include="Assets\Scripts\UI\Timer.cs" />
+     <Compile Include="Assets\Scripts\UI\Treats.cs" />
+     <Compile Include="Assets\Scripts\UI\UIInput.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/Gio/Documents/Unity Projects/Doggy-Dash/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>

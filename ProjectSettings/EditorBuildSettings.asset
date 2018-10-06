@@ -9,8 +9,11 @@ EditorBuildSettings:
     path: Assets/Scenes/StartScreen.unity
     guid: e4b2362dc49e6c2449c4af2da031f97e
   - enabled: 1
-    path: Assets/Scenes/Code Scene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Level1Scene.unity
+    guid: 7bcb2bd46cfeaa94281e9ed55e1d8f1b
+  - enabled: 1
+    path: Assets/Scenes/UIScene.unity
+    guid: 6934a3f26db97b3428a55b652b09adad
   - enabled: 1
     path: Assets/Scenes/EndScreen.unity
     guid: fb404b933460dc042b0fff8898c93c75
