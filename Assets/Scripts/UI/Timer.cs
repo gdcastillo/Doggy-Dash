@@ -6,7 +6,12 @@ using System;
 
 public class Timer : MonoBehaviour 
 {
+	[Header ("PopUp")]
+	[SerializeField]
+	private GameObject endmenuPopUp;
+
 	public Text timerText;
+
 
 	[SerializeField]
 	private float timeLeft; //measured in secs
@@ -15,13 +20,16 @@ public class Timer : MonoBehaviour
 	void Start () 
 	{
 		//timeLeft = 3.0f; //mesaured in secs
+
+		Time.timeScale = 1;
+		endmenuPopUp.SetActive (false);
+		//Debug.Log ("Countdown Begins");
 	}
 	
 	// Update is called once per frame
 	void Update ()
 	{
 		//System.Convert.ToInt32;
-		Debug.Log ("Countdown Begins");
 		if (timeLeft < 0) 
 		{
 			GameOver ();
@@ -53,6 +61,9 @@ public class Timer : MonoBehaviour
 	void GameOver()
 	{
 		timerText.color = Color.red;
-		Debug.Log ("GameOver");
+
+		//Time.timeScale = 0;
+		endmenuPopUp.SetActive (true);
+		//Debug.Log ("GameOver");
 	}
 }

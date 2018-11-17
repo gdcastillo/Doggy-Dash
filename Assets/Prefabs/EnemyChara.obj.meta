@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 846dbf2bf4e641b42a54ef1751c87201
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: EnemyChara_Body
+    100004: EnemyChara_Enemy_Bag
+    100006: EnemyChara_Enemy_Hat
+    100008: EnemyChara_Left_Arm
+    100010: EnemyChara_Left_Leg
+    100012: EnemyChara_Pants
+    100014: EnemyChara_Right_Arm
+    100016: EnemyChara_Right_Leg
+    100018: Head_EnemyChara
+    400000: //RootNode
+    400002: EnemyChara_Body
+    400004: EnemyChara_Enemy_Bag
+    400006: EnemyChara_Enemy_Hat
+    400008: EnemyChara_Left_Arm
+    400010: EnemyChara_Left_Leg
+    400012: EnemyChara_Pants
+    400014: EnemyChara_Right_Arm
+    400016: EnemyChara_Right_Leg
+    400018: Head_EnemyChara
+    2100000: blinn27SG
+    2100002: blinn18SG
+    2100004: blinn11SG
+    2100006: initialShadingGroup
+    2300000: EnemyChara_Body
+    2300002: EnemyChara_Enemy_Bag
+    2300004: EnemyChara_Enemy_Hat
+    2300006: EnemyChara_Left_Arm
+    2300008: EnemyChara_Left_Leg
+    2300010: EnemyChara_Pants
+    2300012: EnemyChara_Right_Arm
+    2300014: EnemyChara_Right_Leg
+    2300016: Head_EnemyChara
+    3300000: EnemyChara_Body
+    3300002: EnemyChara_Enemy_Bag
+    3300004: EnemyChara_Enemy_Hat
+    3300006: EnemyChara_Left_Arm
+    3300008: EnemyChara_Left_Leg
+    3300010: EnemyChara_Pants
+    3300012: EnemyChara_Right_Arm
+    3300014: EnemyChara_Right_Leg
+    3300016: Head_EnemyChara
+    4300000: EnemyChara_Body
+    4300002: EnemyChara_Enemy_Bag
+    4300004: EnemyChara_Enemy_Hat
+    4300006: EnemyChara_Left_Arm
+    4300008: EnemyChara_Left_Leg
+    4300010: EnemyChara_Pants
+    4300012: EnemyChara_Right_Arm
+    4300014: EnemyChara_Right_Leg
+    4300016: Head_EnemyChara
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

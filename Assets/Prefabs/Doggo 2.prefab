@@ -112,8 +112,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 455c89cefb629684cae075054862a144, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myEnemy: {fileID: 0}
+  myGameObject: {fileID: 0}
   player: {fileID: 0}
+  secondaryTarget: {fileID: 0}
   smoothTime: 0.6
+  moveSpeed: 0
+  folowPrimary: 0
+  isHit: 0
+  coinsText: {fileID: 0}
+  coins: 0
 --- !u!135 &135047519654797730
 SphereCollider:
   m_ObjectHideFlags: 1

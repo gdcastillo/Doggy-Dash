@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 6e7367addebbb4e4c86c0eb426d4c729
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Picnic_Table_Group_Table_Board1
+    100002: Picnic_Table_Group_Table_Board2
+    100004: Picnic_Table_Group_Table_Board3
+    100006: Picnic_Table_Group_Table_Board4
+    100008: Picnic_Table_Group_Table_Board5
+    100010: Picnic_Table_Group_Table_Board6
+    100012: Picnic_Table_Group_Table_Board7
+    100014: Picnic_Table_Group_Table_Board8
+    100016: Picnic_Table_Group_Table_Leg1
+    100018: Picnic_Table_Group_Table_Leg2
+    100020: Picnic_Table_Group_Table_Leg3
+    100022: Picnic_Table_Group_Table_Leg4
+    100024: Picnic_Table_Group_Table_MiddleSupport1
+    100026: Picnic_Table_Group_Table_SeatSupport1
+    100028: Picnic_Table_Group_Table_SeatSupport2
+    100030: Picnic_Table_Group_Table_TopSupport1
+    100032: Picnic_Table_Group_Table_TopSupport2
+    100034: Picnic_Table_Group_Table_TopSupport3
+    100036: //RootNode
+    100038: Table_MiddleSupport2_Picnic_Table_Group
+    400000: Picnic_Table_Group_Table_Board1
+    400002: Picnic_Table_Group_Table_Board2
+    400004: Picnic_Table_Group_Table_Board3
+    400006: Picnic_Table_Group_Table_Board4
+    400008: Picnic_Table_Group_Table_Board5
+    400010: Picnic_Table_Group_Table_Board6
+    400012: Picnic_Table_Group_Table_Board7
+    400014: Picnic_Table_Group_Table_Board8
+    400016: Picnic_Table_Group_Table_Leg1
+    400018: Picnic_Table_Group_Table_Leg2
+    400020: Picnic_Table_Group_Table_Leg3
+    400022: Picnic_Table_Group_Table_Leg4
+    400024: Picnic_Table_Group_Table_MiddleSupport1
+    400026: Picnic_Table_Group_Table_SeatSupport1
+    400028: Picnic_Table_Group_Table_SeatSupport2
+    400030: Picnic_Table_Group_Table_TopSupport1
+    400032: Picnic_Table_Group_Table_TopSupport2
+    400034: Picnic_Table_Group_Table_TopSupport3
+    400036: //RootNode
+    400038: Table_MiddleSupport2_Picnic_Table_Group
+    2100000: blinn3SG
+    2100002: blinn10SG
+    2300000: Picnic_Table_Group_Table_Board1
+    2300002: Picnic_Table_Group_Table_Board2
+    2300004: Picnic_Table_Group_Table_Board3
+    2300006: Picnic_Table_Group_Table_Board4
+    2300008: Picnic_Table_Group_Table_Board5
+    2300010: Picnic_Table_Group_Table_Board6
+    2300012: Picnic_Table_Group_Table_Board7
+    2300014: Picnic_Table_Group_Table_Board8
+    2300016: Picnic_Table_Group_Table_Leg1
+    2300018: Picnic_Table_Group_Table_Leg2
+    2300020: Picnic_Table_Group_Table_Leg3
+    2300022: Picnic_Table_Group_Table_Leg4
+    2300024: Picnic_Table_Group_Table_MiddleSupport1
+    2300026: Picnic_Table_Group_Table_SeatSupport1
+    2300028: Picnic_Table_Group_Table_SeatSupport2
+    2300030: Picnic_Table_Group_Table_TopSupport1
+    2300032: Picnic_Table_Group_Table_TopSupport2
+    2300034: Picnic_Table_Group_Table_TopSupport3
+    2300036: Table_MiddleSupport2_Picnic_Table_Group
+    3300000: Picnic_Table_Group_Table_Board1
+    3300002: Picnic_Table_Group_Table_Board2
+    3300004: Picnic_Table_Group_Table_Board3
+    3300006: Picnic_Table_Group_Table_Board4
+    3300008: Picnic_Table_Group_Table_Board5
+    3300010: Picnic_Table_Group_Table_Board6
+    3300012: Picnic_Table_Group_Table_Board7
+    3300014: Picnic_Table_Group_Table_Board8
+    3300016: Picnic_Table_Group_Table_Leg1
+    3300018: Picnic_Table_Group_Table_Leg2
+    3300020: Picnic_Table_Group_Table_Leg3
+    3300022: Picnic_Table_Group_Table_Leg4
+    3300024: Picnic_Table_Group_Table_MiddleSupport1
+    3300026: Picnic_Table_Group_Table_SeatSupport1
+    3300028: Picnic_Table_Group_Table_SeatSupport2
+    3300030: Picnic_Table_Group_Table_TopSupport1
+    3300032: Picnic_Table_Group_Table_TopSupport2
+    3300034: Picnic_Table_Group_Table_TopSupport3
+    3300036: Table_MiddleSupport2_Picnic_Table_Group
+    4300000: Picnic_Table_Group_Table_Board1
+    4300002: Picnic_Table_Group_Table_Board2
+    4300004: Picnic_Table_Group_Table_Board3
+    4300006: Picnic_Table_Group_Table_Board4
+    4300008: Picnic_Table_Group_Table_Board5
+    4300010: Picnic_Table_Group_Table_Board6
+    4300012: Picnic_Table_Group_Table_Board7
+    4300014: Picnic_Table_Group_Table_Board8
+    4300016: Picnic_Table_Group_Table_Leg1
+    4300018: Picnic_Table_Group_Table_Leg2
+    4300020: Picnic_Table_Group_Table_Leg3
+    4300022: Picnic_Table_Group_Table_Leg4
+    4300024: Picnic_Table_Group_Table_MiddleSupport1
+    4300026: Picnic_Table_Group_Table_SeatSupport1
+    4300028: Picnic_Table_Group_Table_SeatSupport2
+    4300030: Picnic_Table_Group_Table_TopSupport1
+    4300032: Picnic_Table_Group_Table_TopSupport2
+    4300034: Picnic_Table_Group_Table_TopSupport3
+    4300036: Table_MiddleSupport2_Picnic_Table_Group
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
